@@ -1,0 +1,4 @@
+[submodule "vutruongblog/public"]
+	path = vutruongblog/public
+	url = https://github.com/ducvuuit/ducvuuit.github.io.git
+	branch = main

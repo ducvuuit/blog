@@ -1,0 +1,4 @@
+baseURL = "http://ducvuuit.github.io/"
+languageCode = "en-us"
+title = "Vu-Truong Blog"
+theme = "hugo-theme-stack"
